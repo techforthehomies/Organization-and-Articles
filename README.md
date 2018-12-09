@@ -3,7 +3,7 @@
 ![Tech for the Homies Logo](https://i.imgur.com/Qc550G7.png)
 
 ## Short Blurb
-Our technological overlords are whack! I'm tired of seeing brilliant creators, particular from marginalizd backgrounds (my homies), put out amazing work and get mistreated in return. This project is a call to action for people to start saving and sharing their own content, and to be more security conscious in general. I write useful guides and informative articles, and I'm working on cool tech projects with this philosophy in mind. Check 'em out!
+Our technological overlords are whack! I'm tired of seeing brilliant creators, particular from marginalized backgrounds (my homies), put out amazing work and get mistreated in return. This project is a call to action for people to start saving and sharing their own content, and to be more security conscious in general. I write useful guides and informative articles, and I'm working on cool tech projects with this philosophy in mind. Check 'em out!
 
 ## TODO and Calendar
 * get server, migrate code to self-hosted gitlab
